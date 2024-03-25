@@ -2,7 +2,12 @@
 Cant train my ocr
 
 Followed tutorial: https://www.youtube.com/watch?v=1v8BPw0Dn0I
-I followed this steps:
+I followed this steps but i stuck at Step 4
+
+1. https://imgur.com/bymzx88 -version of tesseract installed
+2. https://imgur.com/undefined -unicharset, is it errors?
+3. https://imgur.com/mgeUipg -after hit step 4, nothing happened
+4. https://imgur.com/iKPSYat -this is the file what i want to train for my ocr
 
 Step 1: Make box files for images that we want to train
 Syntax: tesseract [langname].[fontname].[expN].[file-extension] [langname].[fontname].[expN] batch.nochop makebox
